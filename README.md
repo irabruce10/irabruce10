@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irakoze Bruce
 - 👀 I’m interested in full-stack development, web technologies, and building scalable applications.
-- 🌱 I’m currently learning React Native/Expo
+- 🌱 Comfortable with JavaScript/TypeScript, Node.js, React, Next.js, PostgreSQL, as well as React Native and Expo.
 - 💞️ I'm an ambitious and eager learner, looking to join a team where I can grow and work on exciting web and mobile app projects. Feel free to reach out—I'd love to join your team!"
 - 📫 How to reach me : You can reach me through email at irabruce20@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/bruce-irakoze-421816230/.
 - 😄 Pronouns: he/him
